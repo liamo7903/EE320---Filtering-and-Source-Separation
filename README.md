@@ -1,5 +1,5 @@
 # EE320---Filtering-and-Source-Separation
-A project that tasked students to extract 3 distinct audio contributions from the original singular audio file. The audio file contained an interference signal with 2 people speaking over each other.
+A project that tasked students to extract 3 distinct audio contributions from an original singular audio file. The audio file contained an interference signal and 2 people speaking over each other.
 
 The report details the design considerations and steps taken to achieve successful separation. Note, it is formatted as answers to questions from the coursework brief for convenience of the examiner. 
 
